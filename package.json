@@ -1,0 +1,12 @@
+{
+  "preferGlobal": true,
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "colors": "^1.4.0",
+    "commander": "^9.4.1",
+    "inquirer": "^9.1.4"
+  },
+  "bin": {
+    "test": "./lib/index.js"
+  }
+}
